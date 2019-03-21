@@ -1,5 +1,5 @@
-
-1. pom.xml - ojdbc6(odysseusucink����) �߰��� �־�����Ұ� 
+asdfasdfasdfasdfsadf
+1. pom.xml - ojdbc6(odysseusucink占쏙옙占쏙옙) 占쌩곤옙占쏙옙 占쌍억옙占쏙옙占쏙옙柰占� 
 	<repositories>
      <repository>
         <id>odysseusinc</id>
@@ -7,9 +7,9 @@
      </repository>
   </repositories>
 
-mybatis(org.mybatis), mybatis-spring(org.mybatis), commons-dbcp(db����������), spring-orm(�ڹ�,��� ����)
+mybatis(org.mybatis), mybatis-spring(org.mybatis), commons-dbcp(db占쏙옙占쏙옙占쏙옙占쏙옙占쏙옙), spring-orm(占쌘뱄옙,占쏙옙占� 占쏙옙占쏙옙)
 
-2. web.xml - encoding filter ����
+2. web.xml - encoding filter 占쏙옙占쏙옙
 
 	<filter>
 		<filter-name>encodingFilter</filter-name>
@@ -48,20 +48,20 @@ mybatis(org.mybatis), mybatis-spring(org.mybatis), commons-dbcp(db�����
 
 11. aop-context.xml
 
-12. web.xml에 aop-context.xml 추가
+12. web.xml�뿉 aop-context.xml 異붽�
 
-13. src/main/resources log4j.xml (logger 추가 및 root logger를 trace로)
+13. src/main/resources log4j.xml (logger 異붽� 諛� root logger瑜� trace濡�)
 -------------------------------------------------------------------
 (filter)
 14. pom.xml : commons-lang3
 
 15. com.hello.mvc03.common.filter.LogFilter(.java)
-	-> javax.servlet.Filter (인터페이스 상속)
+	-> javax.servlet.Filter (�씤�꽣�럹�씠�뒪 �긽�냽)
 	
-16. web.xml : filter 적용합시다.
+16. web.xml : filter �쟻�슜�빀�떆�떎.
 
 17. home.xml : jackson-core jackson-mapper
- // spring4.x이상 버전은 : jackson-core, jackson-databind (com.fasterxml.jackson.core)
+ // spring4.x�씠�긽 踰꾩쟾�� : jackson-core, jackson-databind (com.fasterxml.jackson.core)
  
 18. (index -> controller) login.jsp
 
