@@ -1,4 +1,6 @@
 asdfasdfasdfasdfsadf
+asdfsadfsadf
+asdfsadfasdfasdf
 1. pom.xml - ojdbc6(odysseusucink占쏙옙占쏙옙) 占쌩곤옙占쏙옙 占쌍억옙占쏙옙占쏙옙柰占� 
 	<repositories>
      <repository>
